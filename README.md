@@ -2,16 +2,21 @@
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+Hello 👋
+### Screenshots
+
+![](./screenshot.jpg)
+<img src="./screenshots/Screenshot 2024-12-10 191110.png" width="700px"> <img src="./screenshots/Screenshot 2024-12-10 191155.png" width="250px">
+
+
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -28,7 +33,7 @@ Users should be able to:
 ### Screenshots
 
 ![](./screenshot.jpg)
-<img src="./screenshots/Screenshot 2024-12-10 191110.png" width="500px"> <img src="./screenshots/Screenshot 2024-12-10 191155.png" width="250px">
+<img src="./screenshots/Screenshot 2024-12-10 191110.png" width="700px"> <img src="./screenshots/Screenshot 2024-12-10 191155.png" width="250px">
 
 ### Links
 
