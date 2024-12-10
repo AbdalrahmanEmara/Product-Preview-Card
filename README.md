@@ -30,11 +30,6 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-### Screenshots
-
-![](./screenshot.jpg)
-<img src="./screenshots/Screenshot 2024-12-10 191110.png" width="700px"> <img src="./screenshots/Screenshot 2024-12-10 191155.png" width="250px">
-
 ### Links
 
 - Live Site URL: [Demo](https://abdalrahmanemara.github.io/Product-Preview-Card/)
