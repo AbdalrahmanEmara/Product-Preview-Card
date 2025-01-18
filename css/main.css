@@ -108,7 +108,7 @@ body {
 .container .text .name {
     margin: 20px 0;
     line-height: 1;
-    font-family: "Montserrat", serif;
+    font-family: "Fraunces", serif;
 }
 .container .text p.describtion {
     color: var(--text-color);
